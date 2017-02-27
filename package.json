@@ -1,0 +1,9 @@
+{
+  "name": "background",
+  "version": "1.0.0",
+  "description": "Helper for setting background image style with React",
+  "main": "index.js",
+  "repository": "git@github.com:mika0x56/background.git",
+  "author": "Mika wikman <mika@wikman.me>",
+  "license": "MIT"
+}
